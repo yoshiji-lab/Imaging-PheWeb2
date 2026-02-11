@@ -27,7 +27,7 @@
               height="5"
             ></v-progress-linear> -->
             <div class="links m-1 d-flex justify-space-between align-center text-center">
-                <div class="d-none d-md-flex" :class="{ 'chip-disabled': Object.keys(allInteractionPlottingData).length < 1 || isLoading }" >
+                <!-- <div class="d-none d-md-flex" :class="{ 'chip-disabled': Object.keys(allInteractionPlottingData).length < 1 || isLoading }" >
                   <v-chip
                   size="x-large"
                   label
@@ -38,8 +38,8 @@
                 >
                   Show Genotypes x Sex Interaction Results
                 </v-chip>
-            </div>
-              <div class="data-portal d-flex d-md-none justify-center align-center text-center">
+            </div> -->
+              <!-- <div class="data-portal d-flex d-md-none justify-center align-center text-center">
                 <div v-if="Object.keys(allInteractionPlottingData).length > 0">
                     <v-chip
                     size="x-large"
@@ -58,7 +58,7 @@
               </div>
               <div class="data-portal d-flex d-md-none justify-center align-center text-center">
                 <a  v-if="linkUrl" :href="linkUrl" target="_blank" rel="noopener noreferrer"><u><b></b></u> <v-icon>mdi-printer-eye</v-icon></a>
-              </div>
+              </div> -->
             </div>
 
           </div>

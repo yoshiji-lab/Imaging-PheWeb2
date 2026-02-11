@@ -24,13 +24,9 @@
                 <h2 class="text-center">Development Team</h2>
 		<p>Current members:</p>
 		<ul>
-			<li>Justin Bellavance</li>
 			<li>Hongyu Xiao</li>
-			<li>Le Chang</li>
-			<li>Mehrdad Kazemi</li>
-			<li>Seyla Wickramasinghe</li>
 			<li>Daniel Taliun* (daniel.taliun@mcgill.ca)</li>
-			<li>Sarah A Gagliano Taliun* (sarah.gagliano-taliun@umontreal.ca)</li>
+			<li>Satoshi Yoshiji* (satoshi.yoshiji@mcgill.ca)</li>
 		</ul>
 		<p>* Use these addresses for all inquiries.</p>
 
@@ -39,7 +35,10 @@
 	    <div v-if="selectedContent === 'Acknowledgements'"  id="Acknowledgements">
                 <h2 class="text-center">Acknowledgements</h2>
 
-                <ul>
+                <span>
+                    This platform is powered by the open-source PheWeb2 platform.
+                </span>
+                <!-- <ul>
                     <li>This work has been carried out under approved CLSA Methods Application 23ME002 and funded by the Canadian Institutes of Health Research (CIHR):
 			    <ul>
 				    <li>2 Canada Graduate Scholarships – Master's (JB & MK)</li>
@@ -50,7 +49,7 @@
 		    <li>All computational analyses were performed using the compute resources of <a href="https://alliancecan.ca/en" target="_blank">Digital Research Alliance of Canada</a>.</li>
 		    <li>The CLSA PheWeb is hosted on <a href="https://www.sd4health.ca/" target="_blank">SecureData4Health</a>.</li>
                     <li>We thank all CLSA participants who volunteered their time and information for research.</li>
-                </ul>
+                </ul> -->
             </div>
          </v-main>
     </v-app>

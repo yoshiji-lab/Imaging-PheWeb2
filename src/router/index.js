@@ -17,7 +17,7 @@ const routes = [
     name: 'Home',
     component: Home,
     meta: {
-      title: 'CLSA-PheWeb: Home',
+      title: 'Imaging-PheWeb2: Home',
     }
   },
   {
@@ -25,7 +25,7 @@ const routes = [
     name: 'About',
     component: About,
     meta: {
-      title: 'CLSA-PheWeb: About',
+      title: 'Imaging-PheWeb2: About',
     }
   },
   {
@@ -33,7 +33,7 @@ const routes = [
     name: 'Phenotypes',
     component: Phenotypes,
     meta: {
-      title: 'CLSA-PheWeb: Phenotypes',
+      title: 'Imaging-PheWeb2: Phenotypes',
     }
   },
   {
@@ -41,7 +41,7 @@ const routes = [
     name: 'Tophits',
     component: Tophits,
     meta: {
-      title: 'CLSA-PheWeb: Tophits',
+      title: 'Imaging-PheWeb2: Tophits',
     }
   },
   {
@@ -49,7 +49,7 @@ const routes = [
     name: 'Variant',
     component: Variant,
     meta: {
-      title: 'CLSA-PheWeb: Variant'
+      title: 'Imaging-PheWeb2: Variant'
     }
   },
   {
@@ -57,7 +57,7 @@ const routes = [
     name: 'Pheno',
     component: Pheno,
     meta: {
-      title: 'CLSA-PheWeb: Pheno'
+      title: 'Imaging-PheWeb2: Pheno'
     }
   },
   {
@@ -65,7 +65,7 @@ const routes = [
     name: 'Region',
     component: Region,
     meta: {
-      title: 'CLSA-PheWeb: Region'
+      title: 'Imaging-PheWeb2: Region'
     }
   },
   {
@@ -73,7 +73,7 @@ const routes = [
     name: 'Gene',
     component: Gene,
     meta: {
-      title: 'CLSA-PheWeb: Gene'
+      title: 'Imaging-PheWeb2: Gene'
     }
   },
   {
@@ -81,7 +81,7 @@ const routes = [
     name: 'Contact',
     component: Contact,
     meta: {
-      title: 'CLSA-PheWeb: Contact Us'
+      title: 'Imaging-PheWeb2: Contact Us'
     }
   },
   {
@@ -89,7 +89,7 @@ const routes = [
     name: 'API',
     component: API,
     meta: {
-      title: 'CLSA-PheWeb: API'
+      title: 'Imaging-PheWeb2: API'
     }
   },
   {
@@ -97,7 +97,7 @@ const routes = [
     name: 'Github',
     component: Github,
     meta: {
-      title: 'CLSA-PheWeb: Github'
+      title: 'Imaging-PheWeb2: Github'
     }
   }
 ];

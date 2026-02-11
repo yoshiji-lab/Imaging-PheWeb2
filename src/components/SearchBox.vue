@@ -59,8 +59,8 @@
   <div style="margin-top: 10px;">
     <span>
       Examples:
-      <router-link class="custom-link" :to="{ name: 'Pheno', params: { phenocode: 'BLD_TRIG_COM' } }">Triglycerides</router-link>,
-      <router-link class="custom-link" :to="{ name: 'Pheno', params: { phenocode: 'BLD_nonHDL_COM' } }">non HDL</router-link>,
+      <!-- <router-link class="custom-link" :to="{ name: 'Pheno', params: { phenocode: 'BLD_TRIG_COM' } }">Triglycerides</router-link>, -->
+      <router-link class="custom-link" :to="{ name: 'Pheno', params: { phenocode: 'Arms_BMD' } }">Arms bone mineral density</router-link>,
       <router-link class="custom-link" style="font-style: italic;" :to="{ name: 'Gene', params: { gene: 'APOE' } }">APOE</router-link>,
       <router-link class="custom-link" :to="{ name: 'Variant', params: { variant_id: '19-44908822-C-T' } }">chr19-44908822-C-T</router-link>,
       <router-link class="custom-link" :to="{ name: 'Variant', params: { variant_id: '19-44908822-C-T' } }">rs7412</router-link>
@@ -223,10 +223,10 @@ const getSuggestionColor = (suggestion) => {
 </script>
 <style scoped>
 .custom-link {
-  color: #3d7554;
+  color: #528df2;
   text-decoration: none;
   &:hover {
-    color: #78b243;
+    color: #a41ef8;
     text-decoration: underline;
   }
 }
