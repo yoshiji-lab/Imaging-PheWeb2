@@ -22,7 +22,7 @@
         class="text-start"
         border="top"
     >
-    This tool is designed to provide the community with a comprehensive overview of GWAS and PheWAS results from our genomic atlas of imaging phenotypes, including cardiac MRI, DXA-derived adiposity, and DXA-derived bone traits. For detailed information on phenotype definitions, data quality control, and analytical pipelines, please refer to our paper. We welcome suggestions and feedback to help improve this resource, so please feel free to reach out using the contact details provided on our <a href="contact">Contact page</a>.
+    This tool is designed to provide the community with a comprehensive overview of GWAS and PheWAS results from our genomic atlas of imaging-derived phenotypes, including cardiac MRI, DXA-derived adiposity, and DXA-derived bone traits. For detailed information on phenotype definitions, data quality control, and analytical pipelines, please refer to our paper. We welcome suggestions and feedback to help improve this resource, so please feel free to reach out using the contact details provided on our <a href="contact">Contact page</a>.
     </v-alert>
 
 </template>
