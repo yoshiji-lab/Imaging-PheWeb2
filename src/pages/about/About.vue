@@ -18,8 +18,7 @@
           <h2 class="text-center">About Imaging PheWeb</h2>
           <hr>
           <p>
-            This platform presents genome-wide association (GWAS) and phenome-wide association (PheWAS) results from our genomic atlas of cardiac, adiposity, and bone imaging-derived phenotypes (IDPs). The following sections of the About page offer a brief description of the data preparation and analytical pipeline.
-            If you have any specific questions or require more detailed information, please feel free to reach out. Our contact information is available on the Contact page.
+            This platform presents genome-wide association study (GWAS) and phenome-wide association study (PheWAS) results from our genomic atlas of cardiac, adiposity, and bone imaging-derived phenotypes (IDPs). The sections below provide a brief overview of the data preparation and analytical methods. For additional details, please consult our preprint. For questions not addressed there, please contact us through the Contact page.
           </p>
         </div>
 

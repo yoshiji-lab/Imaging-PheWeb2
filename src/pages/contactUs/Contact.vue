@@ -26,10 +26,10 @@
 		<ul>
 			<li>Hsuan Megan Tsao</li>
 			<li>Hongyu Xiao</li>
-			<li>Daniel Taliun* (daniel.taliun@mcgill.ca)</li>
+			<li>Daniel Taliun</li>
 			<li>Satoshi Yoshiji* (satoshi.yoshiji@mcgill.ca)</li>
 		</ul>
-		<p>* Use these addresses for all inquiries.</p>
+		<p>* Use this address for all inquiries.</p>
 
             </div>
 

@@ -5,6 +5,11 @@
       <h5 class="citation-heading"><strong>Please Cite:</strong></h5>
       <ul>
         <li>
+          Tsao, H. M., Smith, L., Richard, A. et al. (2026). Genomic atlas of cardiac and adiposity imaging phenotypes.
+          <em>medRxiv</em>.
+          <a href="https://www.medrxiv.org/content/10.64898/2026.07.28.26358969v1" target="_blank">https://www.medrxiv.org/content/10.64898/2026.07.28.26358969v1</a>
+        </li>
+        <li>
           Bellavance, J., Xiao, H., Chang, L. et al. Exploring and visualizing stratified GWAS results with PheWeb2.
           <em>Nature Genetics</em>, 58, 233–235 (2026).
           <a href="https://doi.org/10.1038/s41588-025-02469-8" target="_blank">https://doi.org/10.1038/s41588-025-02469-8</a>
