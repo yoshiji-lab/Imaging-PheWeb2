@@ -237,7 +237,9 @@
                 <v-col cols="auto">
                 </v-col>
                 <v-col cols="auto">
+                  <!-- Download temporarily disabled.
                   <v-btn :disabled="isLoading" color="primary" @click="downloadTable"> Download CSV</v-btn>
+                  -->
                 </v-col>
               </v-row>
             </div>  

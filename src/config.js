@@ -3,7 +3,7 @@ export const VITE_APP_TITLE="Imaging PheWeb"
 export const VITE_APP_SUBTITLE1="Powered by PheWeb2"
 
 // Set the date of the release, which is displayed in the footer of each page
-export const VITE_APP_DATE = "2026-01"
+export const VITE_APP_DATE = "2026-08"
 
 // This sets the default GWAS stratification to display on the Miami plot
 export const PRIORITY_STRATIFICATIONS = ["all.male", "all.female"]

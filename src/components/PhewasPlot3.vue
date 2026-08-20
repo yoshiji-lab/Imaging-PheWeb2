@@ -273,8 +273,9 @@ function generatePlot(variant_list){
                                 color: 'red',
                                 suppress_confirm : 'false'
                         },
-                        {type: "download", position: "right"},
-                        {type: "download_png", position: "right"},
+                        // Download widgets temporarily disabled.
+                        // {type: "download", position: "right"},
+                        // {type: "download_png", position: "right"},
                     ]
                 },
                 id: i.toString(),

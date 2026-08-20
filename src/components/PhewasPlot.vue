@@ -332,8 +332,9 @@ function generatePlot(variant_list){
         },
         dashboard: {
             components: [
-                {type: "download", position: "right"},
-                {type: "download_png", position: "right"},
+                // Download widgets temporarily disabled.
+                // {type: "download", position: "right"},
+                // {type: "download_png", position: "right"},
             ],
         },
         responsive_resize: true,

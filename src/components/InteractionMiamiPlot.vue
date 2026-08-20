@@ -1412,6 +1412,7 @@ function reset_for_miami_plot() {
         </div>
 
         <div class="d-flex">
+          <!-- Plot downloads temporarily disabled.
           <button 
             type="button" 
             class="btn btn-light border bg-body rounded"
@@ -1428,6 +1429,7 @@ function reset_for_miami_plot() {
           >
             Download SVG
           </button>
+          -->
         </div>
       </div>
   

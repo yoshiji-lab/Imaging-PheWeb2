@@ -1691,6 +1691,7 @@ watch(
         </div>
 
         <div class="d-flex flex-grow-0 flex-shrink-0">
+          <!-- Plot downloads temporarily disabled.
           <button 
             type="button" 
             class="btn btn-light border bg-body rounded"
@@ -1709,6 +1710,7 @@ watch(
             <span class="d-none d-sm-inline">Download SVG</span>
             <span class="d-sm-none"><v-icon>mdi-download</v-icon>SVG</span>
           </button>
+          -->
         </div>
       </div>
   

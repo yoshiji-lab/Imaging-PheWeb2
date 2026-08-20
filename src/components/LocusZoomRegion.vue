@@ -418,13 +418,11 @@ const fetchData = async () => {
                 title: 'Shift view 3/4 to the right',
                 direction: 0.75,
                 group_position: "end"
-            }, {
-                type: 'download',
-                position: 'right',
-            }, {
-                type: 'download_png',
-                position: 'right',
-            }, LocusZoom.Layouts.get('toolbar_widgets', 'ldlz2_pop_selector')]
+            },
+            // Download widgets temporarily disabled.
+            // { type: 'download', position: 'right' },
+            // { type: 'download_png', position: 'right' },
+            LocusZoom.Layouts.get('toolbar_widgets', 'ldlz2_pop_selector')]
         },
         panels: all_panels, 
     });

@@ -64,7 +64,9 @@
     </v-col>
     <v-spacer></v-spacer>
     <v-col cols="auto" class="d-flex md-5">
+      <!-- Download temporarily disabled.
       <v-btn color="primary" @click="downloadCSV">Download CSV</v-btn>
+      -->
     </v-col>
   </v-row>
 

@@ -70,7 +70,9 @@
         <p>{{ displayedUniquePhenotypesCount }} of {{ displayedTotalPhenotypesCount }} phenotype(s) displayed</p>
       </v-col>
       <v-col cols="auto">
+        <!-- Download temporarily disabled.
         <v-btn color="primary" @click="downloadCSV">Download CSV</v-btn>
+        -->
       </v-col>
     </v-row>
   </div>  

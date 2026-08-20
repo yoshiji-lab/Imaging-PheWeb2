@@ -4,7 +4,7 @@
       <v-text-field 
         prepend-inner-icon="mdi-magnify"
         label="Search for a variant, gene, or phenotype"
-        placeholder="non HDL"
+        placeholder="Left ventricular end-diastolic volume (LVEDV)"
         variant="underlined"
         clearable
         v-model="searchQuery"

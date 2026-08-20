@@ -877,6 +877,7 @@ watch(
         </div>
 
         <div class="d-flex">
+          <!-- Plot downloads temporarily disabled.
           <button 
             type="button" 
             class="btn btn-light border bg-body rounded"
@@ -893,6 +894,7 @@ watch(
           >
             Download SVG
           </button>
+          -->
         </div>
       </div>
   

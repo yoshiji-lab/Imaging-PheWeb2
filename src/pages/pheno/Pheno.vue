@@ -100,6 +100,7 @@
                 </div>
 
                 <div class="dropdown p-1 float-right" style="margin-left: auto;" id="dropdown-sumstats">
+                  <!-- Summary-statistics download buttons temporarily disabled.
                   <div>
                     <button v-if="isLargeScreen" class="btn btn-primary btn-drop">
                       Download Summary Statistics
@@ -110,12 +111,15 @@
                       <v-icon>mdi-download</v-icon>
                     </button>
                   </div>
+                  -->
                   <!-- <button class="btn btn-primary btn-drop d-none d-md-flex">  Download Summary Statistics  <span class="arrow-container"><span class="arrow-down"></span></span></button>
                   <button class="btn btn-primary btn-drop d-flex d-md-none"><v-icon>mdi-download</v-icon></button> -->
+                  <!-- Summary-statistics download menu buttons temporarily disabled.
                   <div class="dropdown-menu dropdown-menu-right p-1" id="dropdown-content-sumstats">
                     <button class="sec-button btn w-100 mt-1 mb-1"  id="download-all-button" @click="downloadAll">Download All</button>
                     <button class="sec-button btn w-100 mt-1 mb-1"  id="download-current-button" @click="downloadCurrent">Download Plotted Variants</button>
                   </div>
+                  -->
                 </div>
           </div> 
 
@@ -221,11 +225,13 @@
                 </div>
 
                 <div class="dropdown p-1 float-right" id="dropdown-sumstats" :class="{ 'dropdown-disabled': isDisabled || isLoading }">
+                  <!-- Summary-statistics download buttons temporarily disabled.
                   <button class="btn btn-primary btn-drop">  Download Summary Statistics  <span class="arrow-container"><span class="arrow-down"></span></span></button>
                   <div class="dropdown-menu dropdown-menu-right p-1" id="dropdown-content-sumstats">
                     <button class="sec-button w-100 mt-1 mb-1"  id="download-all-button" @click="downloadAll">Download All</button>
                     <button class="sec-button w-100 mt-1 mb-1"  id="download-current-button" @click="downloadCurrent">Download Plotted Variants</button>
                   </div>
+                  -->
                 </div>
           </div> 
           <div v-if="miamiInteractionToggle && Object.keys(miamiInteractionData).length > 0">
@@ -1017,5 +1023,3 @@ onUnmounted(() => {
   }
 }
 </style>
-
-

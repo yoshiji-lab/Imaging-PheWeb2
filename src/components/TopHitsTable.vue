@@ -1,6 +1,8 @@
 <template>
   <div class="text-right">
+    <!-- Download temporarily disabled.
     <v-btn color="primary" @click="downloadCSV">Download CSV</v-btn>
+    -->
   </div>
   <v-card elevation="5">
 
@@ -178,8 +180,3 @@
       });
   
   </script>
-  
-  
-  
-  
-  
