@@ -1,9 +1,10 @@
-# PheWeb2
+# Imaging PheWeb2
 ![License](https://img.shields.io/github/license/GaglianoTaliun-Lab/PheWeb2-API)
 
 **Please cite our preprint**: 
-TBA
+Tsao, H. M., Smith, L., Richard, A. et al. (2026). **Genomic atlas of cardiac and adiposity imaging phenotypes.** medRxiv. https://www.medrxiv.org/content/10.64898/2026.07.28.26358969v1.
 
+**Please cite PheWeb2**:
 Bellavance, J., Xiao, H., Chang, L., Kazemi, M., Wickramasinghe, S., Mayhew, A.J., Raina, P., VandeHaar, P., Taliun, D., & Gagliano Taliun, S.A. (2025). Exploring and visualizing stratified genome-wide association study results with PheWeb 2. https://doi.org/10.21203/rs.3.rs-7463215/v1
 
 
@@ -92,4 +93,3 @@ A production server optimizes deployment for faster page reload times and enhanc
    npm run preview -- --port 8080
    ```
 3. To complete the production setup, configure your web server (Apache, Nginx, or Node.js) to serve the static files from the generated `dist` directory. For instance, in Apache2, you typically copy the contents of the `dist` directory to the `/var/www/html` folder.
-
