@@ -24,10 +24,10 @@
                 <h2 class="text-center">Development Team</h2>
 		<p>Current members:</p>
 		<ul>
-			<li>Hsuan Megan Tsao</li>
+			<li>Hsuan Megan Tsao (hsuan.tsao[at]mail.mcgill.ca)</li>
 			<li>Hongyu Xiao</li>
 			<li>Daniel Taliun</li>
-			<li>Satoshi Yoshiji* (satoshi.yoshiji@mcgill.ca)</li>
+			<li>Satoshi Yoshiji* (satoshi.yoshiji[at]mcgill.ca)</li>
 		</ul>
 		<p>* Use this address for all inquiries.</p>
 
